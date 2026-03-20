@@ -2,7 +2,7 @@ console.log("Stockbit Token Syncer: Background script starting...");
 
 // Configuration - Ganti domain ini dengan domain aplikasi Anda
 // const APP_API_URL = "http://localhost:3000/api/update-token"; // Dev
-const APP_API_URL = "http://billionman.netlify.app/api/update-token"; // Prod
+const APP_API_URL = "http://billionman.netlify.app/api/eyJhbGciOiJSUzI1NiIsImtpZCI6ImExNWQ5OGE2LTdkYzgtNDM3NS05NDk0LTEyOWJlM2RlODVkNCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZSI6InZpbnNrYXRhc3lhIiwiZW1hIjoidGFzeWF2aW5za2FAZ21haWwuY29tIiwiZnVsIjoiVmluc2thIFRhc3lhIiwic2VzIjoiWGNla3JDeGFoR09pVmgwcCIsImR2YyI6IjI5YTMxNGY4ZTRjNzBhNWY3NzcyNTNkYzI1MmIxNDI4IiwidWlkIjo1MzMxNDU1LCJjb3UiOiJJRCJ9LCJleHAiOjE3NzQwNjk2ODYsImlhdCI6MTc3Mzk4MzI4NiwiaXNzIjoiU1RPQ0tCSVQiLCJqdGkiOiI2ODM3NDgzNC1lNWU4LTQ5YWUtYjExMS00OWNkNDliYzgwZDYiLCJuYmYiOjE3NzM5ODMyODYsInZlciI6InYxIn0.PRoxWfCSvoE6ezYb8VeS_j6GwMiqIaZrc1pisCjkpldau64Li2l_PfA-5d0M26tu4MRYQsG_WEOllDN_4z6MJVdz_7N1Oy1nOrcyrS-J7L6pow-F6bYK49A9LB5I9hnRY6lyM0yE-qMEKeIgJM8CClUqAMRzB4MZlbXibY3N2ocoy36XOy8jYc4BD9ZuvyZeTPQvd-OYTI39BIAYHwa55j0i-4IoJa4WrLlozVSn1QX1ErqIEUZL3YgsG0UJPalKbBp_-Eyy6rM2K0Nt609uZUl4tD37Vc9kPrTUhL95tZNRYq4m7WbySPXjHTH5GIohpkESpPPKCTVxqL5_jdNtWA"; // Prod
 
 console.log("Target API URL:", APP_API_URL);
 
